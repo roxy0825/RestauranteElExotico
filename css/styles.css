@@ -1,0 +1,10 @@
+body{
+    background-color: antiquewhite;
+}
+.site-header{
+    background-color: brown;
+}
+.py-2{
+    font-size: medium;
+    color: antiquewhite;
+}
